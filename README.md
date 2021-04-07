@@ -1,6 +1,7 @@
 # Face Mask Detection using Yolov3 and Yolov4
 
-[Demo](https://drive.google.com/file/d/17CJkqVoj28GRj23FdTHwfotuVqEPvAo6/view?usp=sharing)
+[Demo](https://im6.ezgif.com/tmp/ezgif-6-b0d55746341d.gif)
+
 ## Steps for training your own custom face mask detector using yolov3 and yolov4 in google colab
 
 ### First add the all cfg files to google colab(They are in the respective directory)
